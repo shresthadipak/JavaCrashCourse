@@ -18,5 +18,14 @@ public class Main
         z = x * y;
         System.out.println(z);
 
+        // Initialize an array
+        int[] q = new int[10];
+        System.out.println(q.length);
+
+        // loop
+        for(int i = 0; i < 5; i++){
+            System.out.println(i);
+        }
+
     }
 }
