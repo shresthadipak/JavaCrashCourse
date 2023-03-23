@@ -27,5 +27,20 @@ public class Main
             System.out.println(i);
         }
 
+        // continue statement
+        for(int i =0; i< 10; i++){
+            if(i==6)
+                continue;
+            System.out.println(i);
+        }
+
+        // break statement
+        for(int i =0; i< 10; i++){
+            if(i==6)
+                break;
+            System.out.println(i);
+        }
+
+
     }
 }
