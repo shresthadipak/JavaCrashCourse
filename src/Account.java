@@ -1,8 +1,17 @@
 public class Account {
 
-    String accountNumber;
-    String accountType;
-    long amount;
+    // Encapsulation of identifiers
+    private String accountNumber;
+    private String accountType;
+    private long amount;
+
+    void  setAmount(long amt){
+        amount = amt;
+    }
+
+    long getAmount(){
+        return amount;
+    }
 
     public Account(String accNumber, String accType, long amt){
         accountNumber = accNumber;
