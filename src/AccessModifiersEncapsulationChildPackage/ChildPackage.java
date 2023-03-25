@@ -1,6 +1,6 @@
-package ChildPackage;
+package AccessModifiersEncapsulationChildPackage;
 
-import SourcePackage.SourceJava;
+import AccessModifiersEncapsulationSourcePackage.SourceJava;
 
 public class ChildPackage {
     public static void main(String[] args){

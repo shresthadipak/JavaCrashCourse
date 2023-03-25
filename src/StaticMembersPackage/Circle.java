@@ -1,4 +1,4 @@
-package DefaultPackage;
+package StaticMembersPackage;
 
 // static library
 import static java.util.Calendar.MONDAY;

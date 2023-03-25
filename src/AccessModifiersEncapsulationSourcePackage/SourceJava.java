@@ -1,4 +1,4 @@
-package SourcePackage;
+package AccessModifiersEncapsulationSourcePackage;
 
 public class SourceJava {
         public int publicInt= 10;

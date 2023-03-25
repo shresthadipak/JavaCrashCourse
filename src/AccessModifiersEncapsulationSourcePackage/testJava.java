@@ -1,4 +1,4 @@
-package SourcePackage;
+package AccessModifiersEncapsulationSourcePackage;
 
 public class testJava {
     public static void main(String[] args){

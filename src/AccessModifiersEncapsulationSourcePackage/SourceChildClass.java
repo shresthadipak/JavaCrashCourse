@@ -1,4 +1,4 @@
-package SourcePackage;
+package AccessModifiersEncapsulationSourcePackage;
 
 public class SourceChildClass extends SourceJava{
     public static void main(String[] args){
